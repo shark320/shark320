@@ -1,5 +1,5 @@
 # 💫 About Me:
-A student at the University of West Bohemia (UWB).<br>Java Software Developer at Eurosoftware <br>Czech student from Ukraine
+:atom:A student at the University of West Bohemia (UWB).<br>💼Java Software Developer at Eurosoftware <br>Czech student from Ukraine
 
 
 # 💻 Tech Stack:
